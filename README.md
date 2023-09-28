@@ -1,5 +1,5 @@
 # MyFirstCoffeApp
 ## Splash Screen
-<img src="[https://github.com/Krdnzbyza/kfcFoodApp/assets/57248151/865a7614-01be-470a-ba2b-497f643e9b5b.png](https://github.com/Krdnzbyza/kfcFoodApp/assets/57248151/865a7614-01be-470a-ba2b-497f643e9b5b.png)" width="200" height="450">
+<img src="[https://user-images.githubusercontent.com/106036163/271232329-e7f6f5eb-9b91-4e8b-a779-91f939ae92c9.jpg)" width="200" height="450">
 
 
